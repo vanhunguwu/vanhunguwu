@@ -1,7 +1,7 @@
 ### Hi there, My name is Hung Nguyen Tuan 😄👋
 - 🌱 I’m currently learning Data Science Analytics. ^_^
-- 📫 How to reach me : tuanhungnguyen11203@gmail.com
-  
+- 📫 How to reach me : tuanhungnguyen11203@gmail.com or https://www.facebook.com/alverysilva/
+
 <!--
 **vanhunguwu/vanhunguwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
